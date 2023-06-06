@@ -11,8 +11,8 @@ This project is a web-based car rental management application that provides a co
 Previously the company undertook all the reservations over the phone and recorded details on paper manually. Searching for existing clients and retrieving information about upcoming trips were very inefficient.
 
 - Registering a new customer, a new vehicle, and making a new reservation took too much time from the customer.
-- Filling paper-based forms had no data validation mechanism, which had led to entering inaccurate and duplicated records.
-- Daily available vehicle fleets and drivers were not updated on time, therefore led to conflicts when allocating them to new reservations.
+- Filling paper-based forms had no data validation mechanism, which led to entering inaccurate and duplicated records.
+- Daily available vehicle fleets and drivers were not updated on time, therefore leading to conflicts when allocating them to new reservations.
 - There was no organized and systematic way to view upcoming trips and rentals.
 - Timely tasks such as renewing revenue licenses, vehicle insurances, and driver licenses had been missed and often had been performed after an extended due date.
 - Daily and monthly reports took too much time to generate due to a lack of a systematic approach.
@@ -27,31 +27,31 @@ Previously the company undertook all the reservations over the phone and recorde
 <br> Vehicles are added to the system through a detailed vehicle registration form. Those details can be edited and updated as necessary.
 
 - Manage Packages
-<br> Package module allows manager to create various rental packages for vehicle models and update when required.
+<br> The package module allows the manager to create various rental packages for vehicle models and update them when required.
 
 - Manage Customers
-<br> System users can add new customers and edit their details. The customer table shows all the customers in the database and allows users to filter and search by the name or NIC.
+<br> System users can add new customers and edit their details. The customer table shows all the customers in the database and allows users to filter and search by name or NIC.
 
 - Manage Chauffeur-Drive Reservations
 <br> When a customer calls the office, this module is facilitated to enter the customer booking details into the system, then search for available packages, and allocate vehicles and drivers based on their attendance all inside one module with guided tabs. If the customer has previously violated any terms and conditions and is being blacklisted, the system would not allow the user to make a reservation for that customer.
 
 - Manage Self-Drive Reservations 
-<br> This module is facilitated to enter customer reservation details and  then checks if the customer is blacklisted or if the driving license expires before the agreed vehicle return date. If the right conditions are met, the user can proceed with the reservation. During vehicle pickup at the office, the system displays the total trip cost and requests an advance payment. Upon vehicle return, the system recalculates the actual rented days and prompts for any additional payments if necessary.
+<br> This module is facilitated to enter customer reservation details and then checks if the customer is blacklisted or if the driving license expires before the agreed vehicle return date. If the right conditions are met, the user can proceed with the reservation. During vehicle pickup at the office, the system displays the total trip cost and requests an advance payment. Upon vehicle return, the system recalculates the actual rented days and prompts for any additional payments if necessary.
 
 - Driver Portal
-<br> Drivers can log into their accounts on mobile or tablet devices by providing their usernames and passwords. All the upcoming rentals can be seen on the home page. At the end of a trip, the system will display the cost of the trip alongside with trip details and the driver can print the receipt and give it to the customer.
+<br> Drivers can log into their accounts on mobile or tablet devices by providing their usernames and passwords. All the upcoming rentals can be seen on the home page. At the end of a trip, the system will display the cost of the trip alongside trip details and the driver can print the receipt and give it to the customer.
 
 - Manage Customer Payments
 <br> Through this module, advance payments and total rental amounts can be calculated and printed to the customer.
 
-- Check Availability of Packages, Vehicles, and Drivers
-<br> The system centralizes the checking of package, vehicle and driver availability for a specified period inside a one module.
+- Check the Availability of Packages, Vehicles, and Drivers
+<br> The system centralizes the checking of package, vehicle and driver availability for a specified period inside one module.
 
 - Generate Reports
 <br> Reports such as revenue reports and income reports can be generated daily or monthly as specified.
 
 - Generate Notifications
-<br> The system will be facilitated to generate important notifications such as driver license, vehicle revenue license and insurance expirations. Also, system-generated emails and text messages will be sent to the customer on reservation confirmation and on driver’s arrival.
+<br> The system will be facilitated to generate important notifications such as driver's license, vehicle revenue license and insurance expirations. Also, system-generated emails and text messages will be sent to the customer on reservation confirmation and driver’s arrival.
 
 
 ## Non-Functional Requirements
