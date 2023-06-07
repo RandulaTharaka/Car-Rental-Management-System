@@ -6,6 +6,8 @@
 ## Overview
 This project is a web-based car rental management application that provides a comprehensive solution to the manual paper-based system used by Sethyana Rent a Car & Cab Service. The developed system has minimized many drawbacks of the paper-based approach while providing staff members with an efficient way to manage reservations,  maintain vehicle fleets and drivers, and generate reports.   
 
+![Vehicle Management Screenshot](https://github.com/RandulaTharaka/Car-Rental-Management-System/assets/60685092/5d41b653-aeab-4433-91e9-99c71f474aa1)
+
 ## Motivations
 
 Previously the company undertook all the reservations over the phone and recorded details on paper manually. Searching for existing clients and retrieving information about upcoming trips were very inefficient.
