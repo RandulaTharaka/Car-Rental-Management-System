@@ -82,3 +82,26 @@ Previously the company undertook all the reservations over the phone and recorde
 - Web Browser (Latest)
 
 ## Installation 
+
+1. Clone the repository<br>
+   git clone __________________________
+2. Create the MySQL user account<br>
+   Open MySQL workbench and go to File -> Open SQL Script. Then open the '01-create-user.sql' file located in 'sql-scripts' folder in the repository and click the execute button in the workbench.
+3. Create the Database<br>
+   Go to File -> Open SQL Script in MySQL workbench. Then open the '02-students.sql' file located in 'sql-scripts' folder in the repository and click the execute button in the workbench.
+4. Import the project in <br>
+Open the 'sethyana_car_rental' folder in IntelliJ IDEA IDE. Allow a few minutes for automatic package and dependency downloads.
+5. Run the project<br>
+Once the configuration is complete, run the project by selecting "Run" from the menu bar and choosing 'Run SethyanaCarRentalApp'. The project will be built and launched.
+6. Access the web app
+Access the application by entering "localhost:8080/login" in your web browser's address. You can login to the system with different privileges using the provided usernames and passwords below.
+
+-----------
+
+1. Clone the repository<br>
+   git clone __________________________
+2. Create the MySQL user account:
+3. Open MySQL Workbench and navigate to File -> Open SQL Script.
+Open the '01-create-user.sql' file located in the 'sql-scripts' folder of the repository.
+Click the execute button in MySQL Workbench to create the user account.
+
