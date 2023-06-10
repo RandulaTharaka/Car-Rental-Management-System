@@ -8,8 +8,63 @@ This project is a web-based car rental management application that provides a co
 
 ![Vehicle Management Screenshot](https://github.com/RandulaTharaka/Car-Rental-Management-System/assets/60685092/5d41b653-aeab-4433-91e9-99c71f474aa1)
 
-![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&lineCount=2&width=640&line1=java%2Cjava%2Cea2d2e%3BSpring%2CSpring%2C77bc1f%3BHibernate%2CHibernate%2Cb2a573%3BMySQL%2CMySQL%2C00758f%3BTomcat%2CTomcat%2C614c4c%3BGradle%2CGradle%2C02303a%3B&line2=HTML%2CHTML%2Cf16529%3BCSS%2CCSS%2C33a9dc%3BBootstrap%2CBootstrap%2C8e13fe%3BJavaScript%2CJavaScript%2Cf0db4f%3BAJAX+%2CAJAX+%2Cbf3f3f%3BjQuery+%2CjQuery+%2C0868ac%3B)
+### Tech Stack
+<table>
+  <tr>
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" height="35" />
+      <br>Java
+    </td>
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="35" height="35" />
+      <br>Spring
+    </td>
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="https://www.svgrepo.com/show/353874/hibernate.svg" width="35" height="35" />
+      <br>Hibernate
+    </td>
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" height="35" />
+      <br>MySQL
+    </td>
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="35" height="35" />
+      <br>Tomcat
+    </td>
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="35" height="35" />
+      <br>Gradle
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" height="35" />
+      <br>HTML
+    </td>
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" height="35"/>
+      <br>CSS
+    </td>
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="35" height="35" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="35" height="35" />
+      <br>jQuery
+    </td>
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" width="35" height="35" />
+      <br>Adobe Xd
+    </td>
+  </tr>
+</table>
 
+</br>
 ## Motivations
 
 Previously the company undertook all the reservations over the phone and recorded details on paper manually. Searching for existing clients and retrieving information about upcoming trips were very inefficient.
