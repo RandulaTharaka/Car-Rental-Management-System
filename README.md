@@ -3,10 +3,13 @@
 ![repo-size](https://img.shields.io/github/repo-size/RandulaTharaka/Car-Rental-Management-System)
 ![top-language](https://img.shields.io/github/languages/top/RandulaTharaka/Car-Rental-Management-System)
 ![last-commit](https://img.shields.io/github/last-commit/RandulaTharaka/Car-Rental-Management-System)
+![commit-merge](https://img.shields.io/github/commit-status/RandulaTharaka/Car-Rental-Management-System/main/8d835e2)
 ![files](https://img.shields.io/github/directory-file-count/RandulaTharaka/Car-Rental-Management-System)
 ![languages](https://img.shields.io/github/languages/count/RandulaTharaka/Car-Rental-Management-System)
 ![contributors](https://img.shields.io/github/contributors/RandulaTharaka/Car-Rental-Management-System)
 ![license](https://img.shields.io/github/license/RandulaTharaka/Car-Rental-Management-System)
+
+
 
 ## Overview
 This web-based **car rental management application** offers a streamlined solution to the company Sethyana Rent a Car & Cab Service's manual paper-based system. It addresses the limitations of the paper-based approach by providing staff members with efficient tools for managing reservations, vehicle fleets, drivers, and generating reports.
