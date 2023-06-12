@@ -2,7 +2,7 @@
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), limited to personal, non-commercial use for the purpose of review and evaluation. This includes the right to copy, install, and run the software on their local machines.
 
-The Software may not be modified, altered, or redistributed in any form or by any means for commercial purposes without prior written permission from the copyright holder.
+**The Software may not be modified, altered, or redistributed in any form or by any means for commercial purposes without prior written permission from the copyright holder.**
 
 The copyright holder reserves all other rights not expressly granted herein.
 
