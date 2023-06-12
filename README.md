@@ -136,6 +136,7 @@ Previously the company undertook all the reservations over the phone and recorde
   <br> Since this is a web-based application, it can run on any operating system in which any modern browser is installed, whether it is windows, mac OS, Linux, or Android. Particularly  the system is well tested on Google Chrome and Mozilla Firefox web browsers.
 
 ## Prerequisites
+Make sure you have following applications installed on your system.
 - Java 11
 - MySQL 8.0
 - MySQL Workbench 8.0
