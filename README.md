@@ -178,4 +178,13 @@ Previously the company undertook all the reservations over the phone and recorde
       |     Driver           |     Chaminda82    |     Chaminda82    |
       |     Driver           |     Sameera86     |     Sameera86     |
     
-   
+    
+## License
+This project is licensed under the Car Rental Management System License.
+
+The Car Rental Management System License allows individuals to obtain a copy of the software and associated documentation files solely for the purpose of review and evaluation. Users are granted permission to copy, install, and run the software on their local machines for personal, non-commercial use.
+
+Modifying, altering, or redistributing the software for commercial purposes is strictly prohibited without prior written permission from the copyright holder.
+
+Please review the [LICENSE](LICENSE.md) file for more details.
+
