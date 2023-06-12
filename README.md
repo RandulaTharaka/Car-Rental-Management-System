@@ -1,11 +1,11 @@
 ![Sethyana Logo with title 12](https://github.com/RandulaTharaka/Car-Rental-Management-System/assets/60685092/cd5eb713-acec-4c34-8c5c-05695dd37bd8)
 ---
 ![repo-size](https://img.shields.io/github/repo-size/RandulaTharaka/Car-Rental-Management-System)
+![files](https://img.shields.io/github/directory-file-count/RandulaTharaka/Car-Rental-Management-System)
 ![top-language](https://img.shields.io/github/languages/top/RandulaTharaka/Car-Rental-Management-System)
+![languages](https://img.shields.io/github/languages/count/RandulaTharaka/Car-Rental-Management-System)
 ![last-commit](https://img.shields.io/github/last-commit/RandulaTharaka/Car-Rental-Management-System)
 ![commit-merge](https://img.shields.io/github/commit-status/RandulaTharaka/Car-Rental-Management-System/main/8d835e2)
-![files](https://img.shields.io/github/directory-file-count/RandulaTharaka/Car-Rental-Management-System)
-![languages](https://img.shields.io/github/languages/count/RandulaTharaka/Car-Rental-Management-System)
 ![license](https://img.shields.io/github/license/RandulaTharaka/Car-Rental-Management-System)
 
 
