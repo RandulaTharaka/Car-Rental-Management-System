@@ -12,6 +12,9 @@ This web-based car rental management application offers a streamlined solution t
 
 ![set1](https://github.com/RandulaTharaka/Car-Rental-Management-System/assets/60685092/dd7edb8a-bedb-479a-bd10-f6a2dacbe377)
 
+![set new](https://github.com/RandulaTharaka/Car-Rental-Management-System/assets/60685092/25989530-114c-4352-992b-5f8cbbd905c5)
+
+![setres](https://github.com/RandulaTharaka/Car-Rental-Management-System/assets/60685092/135c5b9c-3aca-4744-856b-870ecf2774b7)
 
 ### Tech Stack
 <table>
