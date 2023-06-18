@@ -26,10 +26,10 @@ At the time, Sethyana Car Rental company was facing several challenges. The comp
 
 ## System Features
 
-- Manage System Users and Privileges
+👑 Manage System Users and Privileges
   <br> System users can be created only by the manager, and relevant privileges can be assigned to the users based on their role in the company. Registered users can log into the system securely by validating their usernames and passwords.
 
-- Manage Vehicles
+🚗 Manage Vehicles
   <br> Vehicles are added to the system through a detailed vehicle registration form. Those details can be edited and updated as necessary.
 
 - Manage Packages
