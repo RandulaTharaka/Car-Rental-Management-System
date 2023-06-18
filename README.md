@@ -26,37 +26,37 @@ At the time, Sethyana Car Rental company was facing several challenges. The comp
 
 ## System Features
 
-- 🔐  Manage System Users and Privileges
+- **🔐  Manage System Users and Privileges**
 <br>System users can be created only by the manager, and relevant privileges can be assigned to the users based on their role in the company. Registered users can log into the system securely by validating their usernames and passwords.
 
-- 🚘  Manage Vehicles
+- **🚘  Manage Vehicles**
 <br>Vehicles are added to the system through a detailed vehicle registration form. Those details can be edited and updated as necessary.
 
-- 🗳  Manage Rental Packages
+- **🗳  Manage Rental Packages**
 <br>The package module allows the manager to create various rental packages for vehicle models and update them when required.
 
-- 👨‍👧‍👦  Manage Customers
+- **👨‍👧‍👦  Manage Customers**
 <br>System users can add new customers and edit their details. The customer table shows all the customers in the database and allows users to filter and search by name or NIC.
 
-- 📰  Manage Chauffeur-Drive Reservations
+- **📰  Manage Chauffeur-Drive Reservations**
 <br>When a customer calls the office, this module is facilitated to enter the customer booking details into the system, then search for available packages, and allocate vehicles and drivers based on their attendance all inside one module with guided tabs. If the customer has previously violated any terms and conditions and is being blacklisted, the system would not allow the user to make a reservation for that customer.
 
-- 📰  Manage Self-Drive Reservations
+- **📰  Manage Self-Drive Reservations**
 <br>This module is facilitated to enter customer reservation details and then checks if the customer is blacklisted or if the driving license expires before the agreed vehicle return date. If the right conditions are met, the user can proceed with the reservation. During vehicle pickup at the office, the system displays the total trip cost and requests an advance payment. Upon vehicle return, the system recalculates the actual rented days and prompts for any additional payments if necessary.
 
-- 🕹  Driver Portal
+- **🕹  Driver Portal**
 <br>Drivers can log into their accounts on mobile or tablet devices by providing their usernames and passwords. All the upcoming rentals can be seen on the home page. At the end of a trip, the system will display the cost of the trip alongside trip details and the driver can print the receipt and give it to the customer.
 
-- 💵  Manage Customer Payments
+- **💵  Manage Customer Payments**
 <br>Through this module, advance payments and total rental amounts can be calculated and printed to the customer.
 
-- 🔍  Check the Availability of Packages, Vehicles, and Drivers
+- **🔍  Check the Availability of Packages, Vehicles, and Drivers**
 <br>The system centralizes the checking of package, vehicle and driver availability for a specified period inside one module.
 
-- 📊  Generate Reports
+- **📊  Generate Reports**
 <br>Reports such as revenue reports and income reports can be generated daily or monthly as specified.
 
-- 🔔  Generate Notifications
+- **🔔  Generate Notifications**
 <br>The system will be facilitated to generate important notifications such as driver's license, vehicle revenue license and insurance expirations. Also, system-generated emails and text messages will be sent to the customer on reservation confirmation and driver’s arrival.
 
 ## NFRs (Non-Functional Requirements)
