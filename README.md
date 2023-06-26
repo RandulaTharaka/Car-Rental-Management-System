@@ -177,6 +177,30 @@ Make sure you have following applications installed on your system.
       |     Driver           |     Chaminda82    |     Chaminda82    |
       |     Driver           |     Sameera86     |     Sameera86     |
     
+## Usage Example
+### Creating a New Chauffeur-Drive Reservation
+Making a new reservation is guided through a tab design wizard. Users can navigate through each tab from left to right and fill in the required details to create a new reservation. A Field label marked with a red asterisk (*) denotes that it is a required field, and the user cannot leave it blank.
+Follow each tab wizard and the instructions mentioned below to create a new chauffeur-drive reservation.
+
+- **Time & Location Tab** <br> 
+Here the user can fill time and location related details regarding the new reservation. If the customer's pick up location is far from the office, the user can specify the pick up charge by selecting the ‘Yes’ radio button under the ‘Charge for pick up?’. The system is facilitated to add a few multiple stops before the drop off location by selecting the relevant radio button. The ‘Get Duration’ option calculates the duration of pick-up and drop-off time. User can open the google map by clicking the ‘Open Map.’
+
+- **Package Tab** <br> 
+In the package tab, the required duration and distance will be displayed on the top. User can use the filter section to filter out the available packages according to customer needs. Then, click on the relevant radio button to select the required package.
+
+- **Vehicle Tab** <br> 
+All the available vehicles will be displayed here alongside vehicle details according to the previously selected vehicle model and pick up and drop off dates. Click on the relevant radio button to select the required vehicle.
+
+- **Driver Tab** <br> 
+In the driver tab, all the available drivers will be shown according to the specified pick up and drop off times and dates. The user can search for a particular driver by driver calling name or license number. Click on the relevant radio button to select the preferred driver.
+
+- **Customer Tab** <br>
+User can search and select the customer if the customer exists in the database. The system is also facilitated to update customer information right on this tab without navigating elsewhere. User can also add a new customer by clicking the link ‘New Customer’ and filling in the correct information.
+
+- **Confirm Tab** <br> 
+A summary of the reservation can be seen on the left side of the confirmation tab. User can add a note to the reservation, and the driver will also be able to see it. By default, reservation status is selected as ‘reserved’; however: if the reservation is not confirmed, the user can select ‘booking’ from the drop-down. Finally, the user can click on the ‘Add Reservation’ button to add the reservation.
+
+
     
 ## License
 This project is licensed under the Car Rental Management System License.
